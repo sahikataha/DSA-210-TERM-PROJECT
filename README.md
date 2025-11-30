@@ -228,7 +228,7 @@ This project is for educational purposes as part of the DSA-210 course at Sabanc
 
 ## Author
 
-- **Student:** Taha Ardahanlı
+- **Student:** Taha Şahika
 - **Course:** DSA-210 - Data Science and Analytics
 - **Institution:** Sabancı University
-- **Date:** November 2024
+- **Date:** November 2025
